@@ -12,6 +12,7 @@
 		6D4A1C64216DB5E7004C99A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D4A1C62216DB5E7004C99A3 /* Main.storyboard */; };
 		6D4A1C66216DB5E9004C99A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D4A1C65216DB5E9004C99A3 /* Assets.xcassets */; };
 		6D4A1C69216DB5E9004C99A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D4A1C67216DB5E9004C99A3 /* LaunchScreen.storyboard */; };
+		6DBCBB76216EB05800E55C27 /* Main.storyboard2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DBCBB74216EB05800E55C27 /* Main.storyboard2.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6D4A1C65216DB5E9004C99A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D4A1C68216DB5E9004C99A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6D4A1C6A216DB5E9004C99A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6DBCBB75216EB05800E55C27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = TagNoteStephen/Base.lproj/Main.storyboard2.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		6D4A1C52216DB5E7004C99A3 = {
 			isa = PBXGroup;
 			children = (
+				6DBCBB74216EB05800E55C27 /* Main.storyboard2.storyboard */,
 				6D4A1C5D216DB5E7004C99A3 /* TagNoteStephen */,
 				6D4A1C5C216DB5E7004C99A3 /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DBCBB76216EB05800E55C27 /* Main.storyboard2.storyboard in Resources */,
 				6D4A1C69216DB5E9004C99A3 /* LaunchScreen.storyboard in Resources */,
 				6D4A1C66216DB5E9004C99A3 /* Assets.xcassets in Resources */,
 				6D4A1C64216DB5E7004C99A3 /* Main.storyboard in Resources */,
@@ -157,6 +161,14 @@
 				6D4A1C68216DB5E9004C99A3 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		6DBCBB74216EB05800E55C27 /* Main.storyboard2.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6DBCBB75216EB05800E55C27 /* Base */,
+			);
+			name = Main.storyboard2.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
